@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lighten</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="mode_night_settings">打开夜间模式</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="change_color">个性换肤</string>
+</resources>

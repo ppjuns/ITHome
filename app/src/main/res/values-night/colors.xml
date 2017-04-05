@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_color_primary">#303030</color>
+    <color name="theme_color_primary_dark">#202020</color>
+    <color name="theme_color_primary_trans">#303030</color>
+
+    <color name="window_background">#202020</color>
+    <color name="text_color_normal">#B7B7B7</color>
+    <color name="text_color_small">#B7B7B7</color>
+    <color name="text_tag_color_small">#B7B7B7</color>
+    <color name="rv_item_background">#303030</color>
+</resources>
